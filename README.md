@@ -1,2 +1,2 @@
 # DataScienceLearnings
-his repository contains my journey and learnings in the field of Data Science, Artificial Intelligence (AI), and Machine Learning (ML). 
+This repository contains my journey and learnings in the field of Data Science, Artificial Intelligence (AI), and Machine Learning (ML). It includes various notebooks, scripts, and resources that cover fundamental to advanced concepts. The goal of this repo is to consolidate all the knowledge I acquire through courses, projects, research papers, and practical implementations. Feel free to explore and contribute!
